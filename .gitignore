@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # original
-Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow/Chapter_2/data/housing.csv
 model/
+data/
